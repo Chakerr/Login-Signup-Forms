@@ -1,1 +1,1 @@
-# Laboratorio-Login-Signup-Forms-Equipo-
+# Laboratorio-Login-Signup-Forms
