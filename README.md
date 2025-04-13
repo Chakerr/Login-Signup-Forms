@@ -39,3 +39,5 @@ Además, se configuró el formulario de login como la pantalla principal al inic
 - **Firebase Authentication** (opcional) para la autenticación segura de usuarios.
 
 ---
+
+
